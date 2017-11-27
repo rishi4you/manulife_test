@@ -1,0 +1,10 @@
+{
+    "appswift": {
+        "continueTheming": true,
+        "shouldCommitCode": true,
+        "scmType": "git",
+        "scmUserName": "rishi4you@gmail.com",
+        "scmPwd": "epr1cer",
+        "scmUrl": "https://github.com/rishi4you/manulife_test"
+    }
+}
